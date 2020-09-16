@@ -699,6 +699,10 @@ color: #131313;
 .education p{
     color:#444;
     text-align: justify;
+  
+}
+.education .container .center p{
+    text-align: center;
 }
 .education h3 {
     font-size: 19px;

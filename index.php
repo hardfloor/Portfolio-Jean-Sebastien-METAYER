@@ -10,7 +10,17 @@
    <meta name="description" content="">
    <meta name="keywords" content="">
    <meta name="author" content="">
-
+   <!--Métadescrition-->
+   <meta property="og:title" content="Jean Sébastien METAYER Web Designer" />
+   <!--opengraph-->
+   <meta property="og:type" content="Une professionnel au service de votre identité numérique" />
+   <!--opengraph-->
+   <meta property="og:url" content="https://portfolio-jean-sebastien-metayer.netlify.app/" />
+   <!--opengraph-->
+   <meta property="og:image" content="https://portfolio-jean-sebastien-metayer.netlify.app/img/accueil/opengraph.jpg" />
+   <!--opengraph-->
+   <link rel="canonical" href="https://portfolio-jean-sebastien-metayer.netlify.app/" />
+   <!--balise canonical-->
    <title>Multi - Personal Resume & Portfolio Template</title>
 
    <!-- Bootstrap core CSS -->
@@ -34,6 +44,9 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+
+   <link rel="icon" type="image/png" href="./img/accueil/favicon.png" />
+   <!--flavicon-->
 </head>
 
 <body>
@@ -52,7 +65,7 @@
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">JSM</a>
+            <a class="navbar-brand" href="index.html"><img src="./img/accueil/Fichier-3.png" alt="le logo"></a>
          </div>
          <!-- Collect the nav links, forms, and other content for toggling -->
          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -104,10 +117,11 @@
                      Autodidacte, j’ai
                      également pu acquérir divers savoirs en informatique et notamment sur
                      Photoshop pour la création de mailing et promotions. Par la suite, j’ai fixé un nouveau cap à ma
-                     carrière en intégrantune formation de Web Designer afin de développer plus avant mes aptitudes pour
+                     carrière en intégrant une formation de Web Designer afin de développer plus avant mes aptitudes
+                     pour
                      le graphisme et l’informatique et d'explorer mon sens de la créativité. C’est un défi que j’ai pu
                      relever grâce à ma
-                     patience et ma persévérance . Aujourd’hui, fort de mes expériences passées et de mes nouvelles
+                     patience et ma persévérance. Aujourd’hui, fort de mes expériences passées et de mes nouvelles
                      compétences, je peux vous apporter une vision pointue sur vos projets en matière de web mais
                      également d’identité visuelle.
                   </p>
@@ -241,7 +255,7 @@
             </div>
             <p>Voici quelques exemples de mon travail
             </p>
-            
+
          </div>
          <div class="space"></div>
          <div class="categories">
@@ -269,8 +283,8 @@
                   <div class="hover-bg">
                      <a href="img/works/AdvevAnne.jpg">
                         <div class="hover-text">
-                           <h4>AdvevAnne</h4>
-                           <small>WebDesign</small>
+                           <h4>Advev Anne</h4>
+                           <small>Web Design</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -287,7 +301,7 @@
                      <a href="img/works/gowest.jpg">
                         <div class="hover-text">
                            <h4>Go West</h4>
-                           <small>Graphic</small>
+                           <small>Graphisme</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -313,19 +327,25 @@
                </div>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 graphic  ">
+
                <div class="portfolio-item">
+
                   <div class="hover-bg">
+
                      <a href="img/works/cats.jpg">
                         <div class="hover-text">
                            <h4 class="bk">Caracal</h4>
-                           <small class="bk">Nombre d'or</small>
+                           <small class="bk">Logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
                         <img src="img/works/cats.jpg" class="img-responsive" alt="Une illustration en contructivisme">
                      </a>
+
                   </div>
+
                </div>
+
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4   web">
                <div class="portfolio-item">
@@ -349,8 +369,8 @@
                   <div class="hover-bg">
                      <a href="img/works/queen.jpg">
                         <div class="hover-text">
-                           <h4>Queen</h4>
-                           <small>Graphic</small>
+                           <h4>The Queen</h4>
+                           <small>Graphisme</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -412,7 +432,7 @@
                      <a href="img/works/COWS.jpg">
                         <div class="hover-text">
                            <h4>Les Vaches</h4>
-                           <small>hdr</small>
+                           <small>photo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -426,8 +446,8 @@
                   <div class="hover-bg">
                      <a href="img/works/JSM-CATS.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Chats</h4>
-                           <small class="bk">Déclinaison logo</small>
+                           <h4>Chats</h4>
+                           <small>Déclinaison logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -505,7 +525,7 @@
                   <div class="hover-bg">
                      <a href="img/works/marais.jpg">
                         <div class="hover-text">
-                           <h4>Marais</h4>
+                           <h4>Les marais</h4>
                            <small>Travail HDR</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
@@ -521,7 +541,7 @@
                      <a href="img/works/WEB-M-DESIGN.jpg">
                         <div class="hover-text">
                            <h4 class="bk">Web M Design</h4>
-                           <small class="bk">Déclinaison logo</small>
+                           <small class="bk">logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -679,7 +699,7 @@
 
          </div>
       </div>
-  
+
    </section>
    <!-- Resume Section -->
    <section id="resume" class="education">
@@ -758,8 +778,13 @@
                   <p>Rentré par la petite porte quand j'étais étudiant, je n'en suis ressorti qu'après avoir eu en mains
                      la gestion de 5 restaurants</p>
                </article>
+               <div class="CV">
+                  <a href="./CV Métayer Jean Sébastien V4.0.0 light.pdf" target="_blank">Consultez mon CV</a>
+               </div>
             </div>
+
          </div>
+
       </div>
    </section>
    <!-- Team Section -->
@@ -1075,19 +1100,26 @@
             </div>
             <div class="col-md-5 contactRight">
                <div class="contacDetails">
-                  <div class="icon icon-phone"></div>
+                  <a href="tel:0647364795">
+                     <div class="icon icon-phone"></div>
+                  </a>
                   <!-- <h3>Mon numéro</h3> -->
-                  <p>06 47 36 47 95 </p>
+                  <a href="tel:0647364795">
+                     <p>06 47 36 47 95 </p>
+                  </a>
                </div>
                <div class="contacDetails">
                   <div class="icon icon-map"></div>
                   <!-- <h3>Mon adresse</h3> -->
-                  <p> 23, Le Beignon 85150 Sainte Flaive des Loups</p>
+                  <p> 85150 Sainte Flaive des Loups</p>
                </div>
                <div class="contacDetails">
-                  <div class="icon icon-envelope"></div>
+                  <a href="mailto:jean-sebastien.metayer@orange.fr">
+                     <div class="icon icon-envelope"></div>
+                  </a>
                   <!-- <h3>Mon emails</h3> -->
-                  <p> jean-sebastien.metayer@orange.fr</p>
+                  <a href="mailto:jean-sebastien.metayer@orange.fr">
+                     <p> jean-sebastien.metayer@orange.fr</p>
                </div>
             </div>
          </div>
@@ -1111,6 +1143,8 @@
                   rel="noopener"><i class="fa fa-facebook"></i></a></li>
             <li><a href="https://www.instagram.com/web.mdesign/?hl=fr"><i class="fa fa-instagram" target="_blank"
                      rel="noopener"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/jean-s%C3%A9bastien-metayer-3387bb12a/"><i class="fa fa-linkedin" target="_blank"
+                     rel="noopener"></i></a></li>
          </ul>
 
       </div>
@@ -1133,6 +1167,11 @@
       })
    </script>
 
+
+
+
+
+
    <!-- jQuery Version 2.1.3 -->
    <script type="text/javascript" src="js/jquery.js"></script>
    <!-- Bootstrap Core JavaScript -->
@@ -1143,7 +1182,7 @@
    <script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
    <script type="text/javascript" src="js/owl.carousel.js"></script>
    <script type="text/javascript" src="js/wow.min.js"></script>
- 
+
    <!-- Google Map JavaScript -->
    <script src="https://goo.gl/maps/44AwrCttash3haUBA"></script>
    <script src="js/map.js"></script>
