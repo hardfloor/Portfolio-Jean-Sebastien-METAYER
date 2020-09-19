@@ -276,7 +276,7 @@ ol {
     /* background-attachment: fixed; */
     background-repeat: no-repeat;
     color: #434242;
-   max-height: 100vh;
+   min-height: 100vh;
 }
 
 
@@ -371,29 +371,31 @@ ol {
 }
 
 
+
 #about .social i {
-    font-size: 20px;
+    font-size: 100px;
 }
-#about .social li {
+#about .network li {
     display: inline-block;
-    padding-right: 14px;
+    padding-right: 25px;
 }
-#about .social li:last-child {
+/* #about .social li:last-child {
     padding: 0;
+} */
+#about .network a {
+    color:#3E98C8;
+    /* display: block; */
+    font-size: 25px;
 }
-#about .social a {
-    color: #666;
-    display: block;
-}
-#about .social a {
+#about .network a {
     transition: all 0.1s linear 0s;
 }
-#about .social:hover li a {
+#about .network li a:hover  {
     color: #787878;
 }
-#about .social li a:focus, #about .social li a:hover {
+/* #about .network li a:focus, #about .network li a:hover {
     color: #444;
-}
+} */
 #about .skills {
     padding-right: 30px;
 }
@@ -476,7 +478,7 @@ ol {
 }
 #services .service p {
     margin-bottom: 10px;
-    text-align: justify;
+   /*  text-align: justify; */
     
 }
 #services h4 {
@@ -698,7 +700,7 @@ color: #131313;
 
 .education p{
     color:#444;
-    text-align: justify;
+   /*  text-align: justify; */
   
 }
 .education .container .center p{

@@ -93,9 +93,6 @@
       <div class="content">
 
 
-         <h1><mark><span>J</span>ean <span>S</span>ébastien <br>METAYER</mark></h1>
-
-         <p class="lead">Web Designer </p>
       </div>
    </section>
    <!-- About Me Section -->
@@ -125,45 +122,46 @@
                      compétences, je peux vous apporter une vision pointue sur vos projets en matière de web mais
                      également d’identité visuelle.
                   </p>
-                  <div class="social">
+                  <!-- <div class="social">
                      <ul>
                         <li> <a href="#"><i class="fa fa-facebook"></i></a> </li>
                         <li> <a href="#"><i class="fa fa-twitter"></i></a> </li>
                         <li> <a href="#"><i class="fa fa-linkedin"></i></a> </li>
                         <li> <a href="#"><i class="fa fa-dribbble"></i></a> </li>
                      </ul>
-                  </div>
+                  </div> -->
                </div>
             </div>
-            <div class="col-md-6 skills">
-               <h6 class="progress-title">Design</h6>
-               <div data-progress="70" class="skills-item wow">
-                  <div class="skills-item-progress">
-                     <span class="counter">
+            
+               <div class="col-md-6 skills">
+                  <h6 class="progress-title">Web Design</h6>
+                  <div data-progress="20" class="skills-item wow">
+                     <div class="skills-item-progress">
+                        <!-- <span class="counter">
                         <span class="count">70</span>
                         %
-                     </span>
+                     </span> -->
+                     </div>
                   </div>
-               </div>
-               <h6 class="progress-title">Intégration</h6>
-               <div data-progress="60" class="skills-item wow">
-                  <div class="skills-item-progress">
-                     <span class="counter">
+                  <h6 class="progress-title">Graphisme</h6>
+                  <div data-progress="20" class="skills-item wow">
+                     <div class="skills-item-progress">
+                        <!--    <span class="counter">
                         <span class="count">60</span>
                         %
-                     </span>
+                     </span> -->
+                     </div>
                   </div>
-               </div>
-               <h6 class="progress-title">Marketing</h6>
-               <div data-progress="80" class="skills-item wow">
-                  <div class="skills-item-progress">
-                     <span class="counter">
+                  <h6 class="progress-title">photo</h6>
+                  <div data-progress="20" class="skills-item wow">
+                     <div class="skills-item-progress">
+                        <!--  <span class="counter">
                         <span class="count">80</span>
                         %
-                     </span>
+                     </span> -->
+                     </div>
                   </div>
-               </div>
-               <!--  <h6 class="progress-title">Management</h6>
+                  <!--  <h6 class="progress-title">Management</h6>
                <div data-progress="90" class="skills-item wow">
                   <div class="skills-item-progress">
                      <span class="counter">
@@ -172,7 +170,21 @@
                      </span>
                   </div>
                </div> -->
-            </div>
+               <ul class="network">
+                  <li><a href="https://www.behance.net/" target="_blank" rel="noopener"><i class="fa fa-behance"></i></a></li>
+                  <li><a href="https://dribbble.com/" target="_blank" rel="noopener"><i class="fa fa-dribbble"></i></a></li>
+                  <li><a href="https://500px.com/p/wpmusique?view=photos" target="_blank" rel="noopener"><i
+                           class="fa fa-500px"></i></a></li>
+                  <li><a href="https://www.facebook.com/jean.sebastien.metayer/?modal=admin_todo_tour" target="_blank"
+                        rel="noopener"><i class="fa fa-facebook"></i></a></li>
+                  <li><a href="https://www.instagram.com/web.mdesign/?hl=fr"><i class="fa fa-instagram" target="_blank"
+                           rel="noopener"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/jean-s%C3%A9bastien-metayer-3387bb12a/"><i class="fa fa-linkedin"
+                           target="_blank" rel="noopener"></i></a></li>
+               </ul>
+               </div>
+           
+
          </div>
       </div>
    </section>
@@ -287,6 +299,7 @@
                            <small>Web Design</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
+
                         </div>
                         <img src="img/works/AdvevAnne.jpg" class="img-responsive"
                            alt="Une illustration en contructivisme">
@@ -334,8 +347,8 @@
 
                      <a href="img/works/cats.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Caracal</h4>
-                           <small class="bk">Logo</small>
+                           <h4>Caracal</h4>
+                           <small>Logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -347,13 +360,28 @@
                </div>
 
             </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 print">
+               <div class="portfolio-item">
+                  <div class="hover-bg">
+                     <a href="img/works/mariage.jpg">
+                        <div class="hover-text">
+                           <h4>Salon du Mariage</h4>
+                           <small>Photomontage</small>
+                           <div class="clearfix"></div>
+                           <i class="fa fa-link"></i>
+                        </div>
+                        <img src="img/works/mariage.jpg" class="img-responsive" alt="Une affiche du salon du mariage">
+                     </a>
+                  </div>
+               </div>
+            </div>
             <div class="col-sm-6 col-md-4 col-lg-4   web">
                <div class="portfolio-item">
                   <div class="hover-bg">
                      <a href="img/works/oculus.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Oculus</h4>
-                           <small class="bk">Web Design</small>
+                           <h4>Oculus</h4>
+                           <small>Web Design</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -400,8 +428,8 @@
                   <div class="hover-bg">
                      <a href="img/works/UNIVERSAL.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Universal</h4>
-                           <small class="bk">Logo</small>
+                           <h4>Universal</h4>
+                           <small>Logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -493,8 +521,8 @@
                   <div class="hover-bg">
                      <a href="img/works/Logo-Montreuil.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Château de Montreuil</h4>
-                           <small class="bk">Web Design</small>
+                           <h4>Château de Montreuil</h4>
+                           <small>Web Design</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -509,8 +537,8 @@
                   <div class="hover-bg">
                      <a href="img/works/mister-tif.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Mister'Tif</h4>
-                           <small class="bk">Web Design</small>
+                           <h4>Mister'Tif</h4>
+                           <small>Web Design</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -540,8 +568,8 @@
                   <div class="hover-bg">
                      <a href="img/works/WEB-M-DESIGN.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Web M Design</h4>
-                           <small class="bk">logo</small>
+                           <h4>Web M Design</h4>
+                           <small>logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -574,8 +602,8 @@
                   <div class="hover-bg">
                      <a href="img/works/mister-tif-logo.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Mister-tif</h4>
-                           <small class="bk">Logo</small>
+                           <h4>Mister-tif</h4>
+                           <small>Logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -590,8 +618,8 @@
                   <div class="hover-bg">
                      <a href="img/works/company.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Convert Company</h4>
-                           <small class="bk">Web Design</small>
+                           <h4>Convert Company</h4>
+                           <small>Web Design</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -608,8 +636,8 @@
                   <div class="hover-bg">
                      <a href="img/works/aigle.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Aigle</h4>
-                           <small class="bk">Logo</small>
+                           <h4>Aigle</h4>
+                           <small>Logo</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -639,8 +667,8 @@
                   <div class="hover-bg">
                      <a href="img/works/parthénon.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Recontruction</h4>
-                           <small class="bk">Photomontage</small>
+                           <h4>Reconstruction</h4>
+                           <small>Photomontage</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -654,8 +682,8 @@
                   <div class="hover-bg">
                      <a href="img/works/dog.jpg">
                         <div class="hover-text">
-                           <h4 class="bk">Un chien sur le lac</h4>
-                           <small class="bk">Photomontage</small>
+                           <h4>Un chien sur le lac</h4>
+                           <small>Photomontage</small>
                            <div class="clearfix"></div>
                            <i class="fa fa-link"></i>
                         </div>
@@ -1143,8 +1171,8 @@
                   rel="noopener"><i class="fa fa-facebook"></i></a></li>
             <li><a href="https://www.instagram.com/web.mdesign/?hl=fr"><i class="fa fa-instagram" target="_blank"
                      rel="noopener"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/jean-s%C3%A9bastien-metayer-3387bb12a/"><i class="fa fa-linkedin" target="_blank"
-                     rel="noopener"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/jean-s%C3%A9bastien-metayer-3387bb12a/"><i class="fa fa-linkedin"
+                     target="_blank" rel="noopener"></i></a></li>
          </ul>
 
       </div>
@@ -1188,6 +1216,11 @@
    <script src="js/map.js"></script>
    <!-- Custom Theme JavaScript -->
    <script type="text/javascript" src="js/main.js"></script>
+   <script>
+      $('.popup-link').click(function (event) {
+         event.stopPropagation();
+      });
+   </script>
 </body>
 
 </html>

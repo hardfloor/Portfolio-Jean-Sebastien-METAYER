@@ -14,8 +14,8 @@ try {
     $mail->isSMTP();
     $mail->Host       = 'smtp-relay.sendinblue.com';
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'jean-sebastien.metayer@orange.fr';
-    $mail->Password   = 'xsmtpsib-9bcbd93c1b7ebf8525570d675960615475e9cacfead94905ad8b8c9277cfa2e5-XMt3vR6jgB8T4zUH';
+    $mail->Username   = 'wpmusique@gmail.com';
+    $mail->Password   = 'LvWhqdKJwUgYy27B';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port       = 587;
 
