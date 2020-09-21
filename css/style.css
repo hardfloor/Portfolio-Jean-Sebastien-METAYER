@@ -561,6 +561,7 @@ ol.type li a.active , ol.type li:hover a {
 .portfolio-item {
     margin-bottom: 30px;
     position: relative;
+    
 }
 
 .portfolio-item .web{
@@ -593,9 +594,11 @@ ol.type li a.active , ol.type li:hover a {
   width: 100%;
   opacity:0;
   transition: all 0.5s ease 0s;
+  cursor:pointer;
 }
 .portfolio-item:hover .hover-bg a::before :not(.web){
-	opacity:1;
+    opacity:1;
+    cursor:pointer;
 }
 .hover-text{
     background-color: rgba(62, 152, 200,0.6);
@@ -642,7 +645,7 @@ color: #131313;
 }
 #works i.fa {
   border-radius: 50%;
-  color: #fff;
+  color: rgb(22, 21, 21);
   font-size: 20px;
   height: 30px;
   padding: 5px;
